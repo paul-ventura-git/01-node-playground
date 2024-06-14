@@ -1,0 +1,25 @@
+{
+  "name": "01-node-playground",
+  "version": "1.0.0",
+  "description": "Playground",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paul-ventura-git/01-node-playground.git"
+  },
+  "keywords": [
+    "playground"
+  ],
+  "author": "Paul Ventura",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paul-ventura-git/01-node-playground/issues"
+  },
+  "homepage": "https://github.com/paul-ventura-git/01-node-playground#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
