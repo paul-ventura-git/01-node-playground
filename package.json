@@ -2,8 +2,9 @@
   "name": "01-node-playground",
   "version": "1.0.0",
   "description": "Playground",
-  "main": "index.js",
+  "main": "server-express.js",
   "scripts": {
+    "start": "nodemon server-express.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
